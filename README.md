@@ -7,6 +7,26 @@ O estudo foi desenvolvido por **Rafael Berg** e **Thiago Matheus Honorato**, com
 Todo o conteúdo foi implementado em **notebooks interativos do Google Colab**, contendo explicações, vídeos e simulações com discussão dos resultados obtidos.
 
 ---
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RafaelBerg" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/86807247?v=4" width="100px;" alt="Avatar Rafael"/><br>
+        <sub>
+          <b>Rafael Berg</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ThiagoMathe" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/89406106?v=4" width="100px;" alt="Avatar Thiago"/><br>
+        <sub>
+          <b>Thiago Matheus</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Conteúdo por Capítulo
 
